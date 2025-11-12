@@ -1,0 +1,7 @@
+Akun admin
+Username: admin
+Password: admin
+------------------
+Akun user test
+Username: oosaka
+Password: oosaka
